@@ -27,3 +27,15 @@ Download the optimized image
 
 🖥️ Run Locally
 
+1️⃣ Clone the repository
+git clone https://github.com/Khushii75/ImageLite
+cd ImageLite
+
+2️⃣ Install dependencies
+pip install -r requirements.txt
+
+3️⃣ Run the app
+python -m streamlit run app.py
+
+
+
