@@ -42,4 +42,5 @@ python -m streamlit run app.py
 https://imagelite-vvnkjrawxhbvh3mfdlhtsg.streamlit.app/
 
 
+<img width="1156" height="443" alt="image" src="https://github.com/user-attachments/assets/73e80c4e-35bb-4e88-b70b-d8198526d582" />
 
